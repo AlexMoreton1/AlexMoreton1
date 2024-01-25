@@ -12,9 +12,19 @@ A passionate software engineering student at the University of Brighton, dedicat
 - Internship at Paxton Access
 - Access to Higher Education in Computing - Chichester College, Distinction
 
+## 📊 GitHub Stats:
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Real-A-Moreton&show_icons=true&theme=radical)
+
+## 💻 Most Used Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Real-A-Moreton&layout=compact)
+
+
 ## ⚡ Fun fact:
 
 I'm not just about code. I'm also passionate about understanding the full spectrum of computing, from data processing to AI, and everything in between!
+
 <!--
 ## 💼 Professional Skills:
 
