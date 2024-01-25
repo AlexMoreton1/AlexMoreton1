@@ -12,6 +12,9 @@ A passionate software engineering student at the University of Brighton, dedicat
 - Internship at Paxton Access
 - Access to Higher Education in Computing - Chichester College, Distinction
 
+## 📄 Latest CV
+Please reach out to me via email or LinkedIn for my latest CV.
+
 ## 📊 GitHub Stats:
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMoreton1&show_icons=true&theme=radical)
