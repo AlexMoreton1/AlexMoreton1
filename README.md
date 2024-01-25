@@ -14,11 +14,11 @@ A passionate software engineering student at the University of Brighton, dedicat
 
 ## 📊 GitHub Stats:
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Real-A-Moreton&show_icons=true&theme=radical)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMoreton1&show_icons=true&theme=radical)
 
 ## 💻 Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Real-A-Moreton&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMoreton1&layout=compact)
 
 
 ## ⚡ Fun fact:
