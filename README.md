@@ -16,8 +16,9 @@ A passionate software engineering student at the University of Brighton, dedicat
 Please reach out to me via email or LinkedIn for my latest CV.
 
 (Note: A significant portion of my project work is currently private, in compliance with university plagiarism policies.)
-## 📊 GitHub Stats:
 <!--
+## 📊 GitHub Stats:
+
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMoreton1&show_icons=true&theme=radical)
 
 ## 💻 Most Used Languages:
