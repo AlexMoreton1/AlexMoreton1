@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alexander Moreton
 
-A passionate software engineering student at the University of Brighton, dedicated to mastering the art of coding and excited about bringing innovative solutions to life. Currently, I'm honing my skills through a rigorous academic program and after completing a hands-on internship experience.
+I am a newly graduated software engineer from the University of Brighton, equipped with a first-class degree and a strong passion for coding and technology innovation. My education has been a blend of rigorous academic training and practical experience, including a hands-on internship, which has prepared me well for the challenges of the tech industry.
 
 ## 🌐 Social Links:
 - Email: [alexmoreton@hotmail.co.uk](mailto:alexmoreton@hotmail.co.uk)
@@ -8,7 +8,7 @@ A passionate software engineering student at the University of Brighton, dedicat
 
 ## 🎓 Education:
 
-- BSC Hons Software Engineering at the University of Brighton - Graduating 2024
+- BSc (Hons) Software Engineering, University of Brighton - Graduated with First Class Honours in 2024
 - Internship at Paxton Access
 - Access to Higher Education in Computing - Chichester College, Distinction
 
