@@ -3,7 +3,6 @@
 I am a newly graduated software engineer from the University of Brighton, equipped with a first-class degree and a strong passion for coding and technology innovation. My education has been a blend of rigorous academic training and practical experience, including a hands-on internship, which has prepared me well for the challenges of the tech industry.
 
 ## 🌐 Social Links:
-- Email: [alexmoreton@hotmail.co.uk](mailto:alexmoreton@hotmail.co.uk)
 - LinkedIn: [linkedin.com/in/alexmoreton1](https://www.linkedin.com/in/alexmoreton1)
 
 ## 🎓 Education:
