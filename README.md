@@ -1,7 +1,5 @@
 # Hi 👋, I'm Alexander Moreton
 
-I am a newly graduated software engineer from the University of Brighton, equipped with a first-class degree and a strong passion for coding and technology innovation. My education has been a blend of rigorous academic training and practical experience, including a hands-on internship, which has prepared me well for the challenges of the tech industry.
-
 ## 🌐 Social Links:
 - LinkedIn: [linkedin.com/in/alexmoreton1](https://www.linkedin.com/in/alexmoreton1)
 
@@ -25,9 +23,6 @@ Please reach out to me via email or LinkedIn for my latest CV.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMoreton1&layout=compact)
 -->
 
-## ⚡ Fun fact:
-
-I'm not just about code. I'm also passionate about understanding the full spectrum of computing, from data processing to AI, and everything in between!
 
 <!--
 ## 💼 Professional Skills:
