@@ -2,7 +2,7 @@
 
 ## 🌐 Social Links:
 - LinkedIn: [linkedin.com/in/alexmoreton1](https://www.linkedin.com/in/alexmoreton1)
-
+<!--
 ## 🎓 Education:
 
 - BSc (Hons) Software Engineering, University of Brighton - Graduated with First Class Honours in 2024
@@ -13,6 +13,8 @@
 Please reach out to me via email or LinkedIn for my latest CV.
 
 (Note: A significant portion of my project work is currently private, in compliance with university plagiarism policies.)
+-->
+
 <!--
 ## 📊 GitHub Stats:
 
